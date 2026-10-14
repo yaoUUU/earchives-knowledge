@@ -1,0 +1,2628 @@
+{
+  "sheets": {
+    "SheetData0": {
+      "id": "SheetData0",
+      "name": "主表",
+      "mergeData": [
+        {
+          "startRow": 0,
+          "endRow": 0,
+          "startColumn": 1,
+          "endColumn": 26
+        },
+        {
+          "startRow": 1,
+          "endRow": 1,
+          "startColumn": 1,
+          "endColumn": 26
+        },
+        {
+          "startRow": 2,
+          "endRow": 2,
+          "startColumn": 18,
+          "endColumn": 21
+        },
+        {
+          "startRow": 2,
+          "endRow": 2,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 3,
+          "endRow": 3,
+          "startColumn": 1,
+          "endColumn": 26
+        },
+        {
+          "startRow": 4,
+          "endRow": 4,
+          "startColumn": 1,
+          "endColumn": 4
+        },
+        {
+          "startRow": 4,
+          "endRow": 4,
+          "startColumn": 5,
+          "endColumn": 10
+        },
+        {
+          "startRow": 4,
+          "endRow": 4,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 4,
+          "endRow": 4,
+          "startColumn": 15,
+          "endColumn": 18
+        },
+        {
+          "startRow": 4,
+          "endRow": 4,
+          "startColumn": 19,
+          "endColumn": 22
+        },
+        {
+          "startRow": 4,
+          "endRow": 4,
+          "startColumn": 23,
+          "endColumn": 26
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 1,
+          "endColumn": 4
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 5,
+          "endColumn": 10
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 15,
+          "endColumn": 18
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 19,
+          "endColumn": 22
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 23,
+          "endColumn": 26
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 1,
+          "endColumn": 4
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 5,
+          "endColumn": 10
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 15,
+          "endColumn": 18
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 19,
+          "endColumn": 22
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 23,
+          "endColumn": 26
+        },
+        {
+          "startRow": 7,
+          "endRow": 7,
+          "startColumn": 1,
+          "endColumn": 4
+        },
+        {
+          "startRow": 7,
+          "endRow": 7,
+          "startColumn": 5,
+          "endColumn": 10
+        },
+        {
+          "startRow": 7,
+          "endRow": 7,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 7,
+          "endRow": 7,
+          "startColumn": 15,
+          "endColumn": 26
+        },
+        {
+          "startRow": 8,
+          "endRow": 8,
+          "startColumn": 1,
+          "endColumn": 10
+        },
+        {
+          "startRow": 8,
+          "endRow": 8,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 8,
+          "endRow": 8,
+          "startColumn": 15,
+          "endColumn": 17
+        },
+        {
+          "startRow": 8,
+          "endRow": 8,
+          "startColumn": 18,
+          "endColumn": 24
+        },
+        {
+          "startRow": 8,
+          "endRow": 8,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 9,
+          "endRow": 9,
+          "startColumn": 3,
+          "endColumn": 10
+        },
+        {
+          "startRow": 9,
+          "endRow": 9,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 9,
+          "endRow": 9,
+          "startColumn": 18,
+          "endColumn": 24
+        },
+        {
+          "startRow": 9,
+          "endRow": 9,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 10,
+          "endRow": 10,
+          "startColumn": 3,
+          "endColumn": 10
+        },
+        {
+          "startRow": 10,
+          "endRow": 10,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 10,
+          "endRow": 10,
+          "startColumn": 18,
+          "endColumn": 24
+        },
+        {
+          "startRow": 10,
+          "endRow": 10,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 11,
+          "endRow": 11,
+          "startColumn": 3,
+          "endColumn": 10
+        },
+        {
+          "startRow": 11,
+          "endRow": 11,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 11,
+          "endRow": 11,
+          "startColumn": 18,
+          "endColumn": 24
+        },
+        {
+          "startRow": 11,
+          "endRow": 11,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 12,
+          "endRow": 12,
+          "startColumn": 3,
+          "endColumn": 10
+        },
+        {
+          "startRow": 12,
+          "endRow": 12,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 12,
+          "endRow": 12,
+          "startColumn": 18,
+          "endColumn": 24
+        },
+        {
+          "startRow": 12,
+          "endRow": 12,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 13,
+          "endRow": 13,
+          "startColumn": 3,
+          "endColumn": 10
+        },
+        {
+          "startRow": 13,
+          "endRow": 13,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 13,
+          "endRow": 13,
+          "startColumn": 18,
+          "endColumn": 24
+        },
+        {
+          "startRow": 13,
+          "endRow": 13,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 14,
+          "endRow": 14,
+          "startColumn": 3,
+          "endColumn": 10
+        },
+        {
+          "startRow": 14,
+          "endRow": 14,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 14,
+          "endRow": 14,
+          "startColumn": 18,
+          "endColumn": 24
+        },
+        {
+          "startRow": 14,
+          "endRow": 14,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 15,
+          "endRow": 15,
+          "startColumn": 3,
+          "endColumn": 10
+        },
+        {
+          "startRow": 15,
+          "endRow": 15,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 15,
+          "endRow": 15,
+          "startColumn": 18,
+          "endColumn": 24
+        },
+        {
+          "startRow": 15,
+          "endRow": 15,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 16,
+          "endRow": 16,
+          "startColumn": 3,
+          "endColumn": 10
+        },
+        {
+          "startRow": 16,
+          "endRow": 16,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 16,
+          "endRow": 16,
+          "startColumn": 18,
+          "endColumn": 24
+        },
+        {
+          "startRow": 16,
+          "endRow": 16,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 17,
+          "endRow": 17,
+          "startColumn": 3,
+          "endColumn": 10
+        },
+        {
+          "startRow": 17,
+          "endRow": 17,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 17,
+          "endRow": 17,
+          "startColumn": 18,
+          "endColumn": 24
+        },
+        {
+          "startRow": 17,
+          "endRow": 17,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 18,
+          "endRow": 18,
+          "startColumn": 3,
+          "endColumn": 10
+        },
+        {
+          "startRow": 18,
+          "endRow": 18,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 18,
+          "endRow": 18,
+          "startColumn": 18,
+          "endColumn": 24
+        },
+        {
+          "startRow": 18,
+          "endRow": 18,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 19,
+          "endRow": 19,
+          "startColumn": 3,
+          "endColumn": 10
+        },
+        {
+          "startRow": 19,
+          "endRow": 19,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 19,
+          "endRow": 19,
+          "startColumn": 18,
+          "endColumn": 24
+        },
+        {
+          "startRow": 19,
+          "endRow": 19,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 20,
+          "endRow": 20,
+          "startColumn": 16,
+          "endColumn": 26
+        },
+        {
+          "startRow": 21,
+          "endRow": 21,
+          "startColumn": 16,
+          "endColumn": 21
+        },
+        {
+          "startRow": 21,
+          "endRow": 21,
+          "startColumn": 22,
+          "endColumn": 26
+        },
+        {
+          "startRow": 22,
+          "endRow": 22,
+          "startColumn": 16,
+          "endColumn": 21
+        },
+        {
+          "startRow": 22,
+          "endRow": 22,
+          "startColumn": 22,
+          "endColumn": 26
+        },
+        {
+          "startRow": 23,
+          "endRow": 23,
+          "startColumn": 16,
+          "endColumn": 21
+        },
+        {
+          "startRow": 23,
+          "endRow": 23,
+          "startColumn": 22,
+          "endColumn": 26
+        },
+        {
+          "startRow": 24,
+          "endRow": 24,
+          "startColumn": 16,
+          "endColumn": 26
+        },
+        {
+          "startRow": 25,
+          "endRow": 25,
+          "startColumn": 16,
+          "endColumn": 21
+        },
+        {
+          "startRow": 25,
+          "endRow": 25,
+          "startColumn": 22,
+          "endColumn": 26
+        },
+        {
+          "startRow": 26,
+          "endRow": 26,
+          "startColumn": 16,
+          "endColumn": 21
+        },
+        {
+          "startRow": 26,
+          "endRow": 26,
+          "startColumn": 22,
+          "endColumn": 26
+        },
+        {
+          "startRow": 27,
+          "endRow": 27,
+          "startColumn": 16,
+          "endColumn": 26
+        },
+        {
+          "startRow": 28,
+          "endRow": 28,
+          "startColumn": 16,
+          "endColumn": 21
+        },
+        {
+          "startRow": 28,
+          "endRow": 28,
+          "startColumn": 22,
+          "endColumn": 26
+        },
+        {
+          "startRow": 29,
+          "endRow": 29,
+          "startColumn": 16,
+          "endColumn": 21
+        },
+        {
+          "startRow": 29,
+          "endRow": 29,
+          "startColumn": 22,
+          "endColumn": 26
+        },
+        {
+          "startRow": 0,
+          "endRow": 20,
+          "startColumn": 0,
+          "endColumn": 0
+        },
+        {
+          "startRow": 9,
+          "endRow": 12,
+          "startColumn": 1,
+          "endColumn": 1
+        },
+        {
+          "startRow": 13,
+          "endRow": 19,
+          "startColumn": 1,
+          "endColumn": 1
+        },
+        {
+          "startRow": 0,
+          "endRow": 20,
+          "startColumn": 27,
+          "endColumn": 27
+        },
+        {
+          "startRow": 20,
+          "endRow": 23,
+          "startColumn": 1,
+          "endColumn": 6
+        },
+        {
+          "startRow": 20,
+          "endRow": 23,
+          "startColumn": 7,
+          "endColumn": 15
+        },
+        {
+          "startRow": 24,
+          "endRow": 26,
+          "startColumn": 1,
+          "endColumn": 6
+        },
+        {
+          "startRow": 24,
+          "endRow": 26,
+          "startColumn": 7,
+          "endColumn": 15
+        },
+        {
+          "startRow": 27,
+          "endRow": 29,
+          "startColumn": 1,
+          "endColumn": 6
+        },
+        {
+          "startRow": 27,
+          "endRow": 29,
+          "startColumn": 7,
+          "endColumn": 15
+        }
+      ],
+      "cellData": {
+        "1": {
+          "1": {
+            "v": "模板分项工程模板安装检验批质量验收记录",
+            "t": 1
+          }
+        },
+        "2": {
+          "18": {
+            "v": "编号：010203",
+            "t": 1
+          },
+          "22": {
+            "v": "0",
+            "t": 1
+          },
+          "23": {
+            "v": "0",
+            "t": 1
+          },
+          "24": {
+            "v": "1",
+            "t": 1
+          },
+          "25": {
+            "v": "（1）",
+            "t": 1
+          }
+        },
+        "4": {
+          "1": {
+            "v": "单位（子单位）\r工程名称\r\n",
+            "t": 1
+          },
+          "5": {
+            "v": "示例工程",
+            "t": 1
+          },
+          "11": {
+            "v": "分部（子分部）工程名称",
+            "t": 1
+          },
+          "15": {
+            "v": "地基与基础\r（基础）\r\n",
+            "t": 1
+          },
+          "19": {
+            "v": "分项工程名称",
+            "t": 1
+          },
+          "23": {
+            "v": "筏形与箱形基础",
+            "t": 1
+          }
+        },
+        "5": {
+          "1": {
+            "v": "施工单位",
+            "t": 1
+          },
+          "11": {
+            "v": "项目负责人",
+            "t": 1
+          },
+          "19": {
+            "v": "检验批容量",
+            "t": 1
+          }
+        },
+        "6": {
+          "1": {
+            "v": "分包单位",
+            "t": 1
+          },
+          "11": {
+            "v": "分包单位\r项目负责人\r\n",
+            "t": 1
+          },
+          "19": {
+            "v": "检验批部位",
+            "t": 1
+          }
+        },
+        "7": {
+          "1": {
+            "v": "施工依据",
+            "t": 1
+          },
+          "5": {
+            "v": "《混凝土结构施工规范》GB 50666-2011",
+            "t": 1
+          },
+          "11": {
+            "v": "验收依据",
+            "t": 1
+          },
+          "15": {
+            "v": "《混凝土结构工程施工质量验收检查用表标准》\rDB33/T1237-2021\r\n",
+            "t": 1
+          }
+        },
+        "8": {
+          "1": {
+            "v": "验收项目",
+            "t": 1
+          },
+          "11": {
+            "v": "设计要求及\r规范规定\r\n",
+            "t": 1
+          },
+          "15": {
+            "v": "最小/实际\r抽样数量\r\n",
+            "t": 1
+          },
+          "18": {
+            "v": "检查记录",
+            "t": 1
+          },
+          "25": {
+            "v": "检查\r结果\r\n",
+            "t": 1
+          }
+        },
+        "9": {
+          "1": {
+            "v": "主控项目",
+            "t": 1
+          },
+          "2": {
+            "v": "1",
+            "t": 1
+          },
+          "3": {
+            "v": "模板及支架用材料",
+            "t": 1
+          },
+          "11": {
+            "v": "第4.2.1条",
+            "t": 1
+          },
+          "16": {
+            "v": "/",
+            "t": 1
+          }
+        },
+        "10": {
+          "2": {
+            "v": "2",
+            "t": 1
+          },
+          "3": {
+            "v": "现浇混凝土结构模板及支架的安装质量",
+            "t": 1
+          },
+          "11": {
+            "v": "第4.2.2条",
+            "t": 1
+          },
+          "16": {
+            "v": "/",
+            "t": 1
+          }
+        },
+        "11": {
+          "2": {
+            "v": "3",
+            "t": 1
+          },
+          "3": {
+            "v": "后浇带处模板及支架设置",
+            "t": 1
+          },
+          "11": {
+            "v": "第4.2.3条",
+            "t": 1
+          },
+          "16": {
+            "v": "/",
+            "t": 1
+          }
+        },
+        "12": {
+          "2": {
+            "v": "4",
+            "t": 1
+          },
+          "3": {
+            "v": "支架竖杆或竖向模板安装在土层上要求",
+            "t": 1
+          },
+          "11": {
+            "v": "第4.2.4条",
+            "t": 1
+          },
+          "16": {
+            "v": "/",
+            "t": 1
+          }
+        },
+        "13": {
+          "1": {
+            "v": "一\r般\r项\r目\r\n",
+            "t": 1
+          },
+          "2": {
+            "v": "1",
+            "t": 1
+          },
+          "3": {
+            "v": "模板安装",
+            "t": 1
+          },
+          "11": {
+            "v": "第4.2.5条",
+            "t": 1
+          },
+          "16": {
+            "v": "/",
+            "t": 1
+          }
+        },
+        "14": {
+          "2": {
+            "v": "2",
+            "t": 1
+          },
+          "3": {
+            "v": "隔离剂的品种和涂刷方法",
+            "t": 1
+          },
+          "11": {
+            "v": "第4.2.6条",
+            "t": 1
+          },
+          "16": {
+            "v": "/",
+            "t": 1
+          }
+        },
+        "15": {
+          "2": {
+            "v": "3",
+            "t": 1
+          },
+          "3": {
+            "v": "模板起拱",
+            "t": 1
+          },
+          "11": {
+            "v": "第4.2.7条",
+            "t": 1
+          },
+          "16": {
+            "v": "/",
+            "t": 1
+          }
+        },
+        "16": {
+          "2": {
+            "v": "4",
+            "t": 1
+          },
+          "3": {
+            "v": "现浇混凝土结构多层连续支模",
+            "t": 1
+          },
+          "11": {
+            "v": "第4.2.8条",
+            "t": 1
+          },
+          "16": {
+            "v": "/",
+            "t": 1
+          }
+        },
+        "17": {
+          "2": {
+            "v": "5",
+            "t": 1
+          },
+          "3": {
+            "v": "预埋件和预留孔洞安装",
+            "t": 1
+          },
+          "11": {
+            "v": "第4.2.9条",
+            "t": 1
+          },
+          "16": {
+            "v": "/",
+            "t": 1
+          }
+        },
+        "18": {
+          "2": {
+            "v": "6",
+            "t": 1
+          },
+          "3": {
+            "v": "现浇结构模板安装",
+            "t": 1
+          },
+          "11": {
+            "v": "第4.2.10条",
+            "t": 1
+          },
+          "16": {
+            "v": "/",
+            "t": 1
+          }
+        },
+        "19": {
+          "2": {
+            "v": "7",
+            "t": 1
+          },
+          "3": {
+            "v": "预制构件模板安装",
+            "t": 1
+          },
+          "11": {
+            "v": "第4.2.11条",
+            "t": 1
+          },
+          "16": {
+            "v": "/",
+            "t": 1
+          }
+        },
+        "20": {
+          "1": {
+            "v": "施工单位\r检查结果\r\n",
+            "t": 1
+          }
+        },
+        "21": {
+          "16": {
+            "v": "施工员（签名）：",
+            "t": 1
+          }
+        },
+        "22": {
+          "16": {
+            "v": "质量员（签名）：",
+            "t": 1
+          }
+        },
+        "23": {
+          "22": {
+            "v": "年  月  日",
+            "t": 1
+          }
+        },
+        "24": {
+          "1": {
+            "v": "监理单位\r验收结论\r\n",
+            "t": 1
+          }
+        },
+        "25": {
+          "16": {
+            "v": "土建监理工程师（签名）：",
+            "t": 1
+          }
+        },
+        "26": {
+          "22": {
+            "v": "年  月  日",
+            "t": 1
+          }
+        },
+        "27": {
+          "1": {
+            "v": "建设单位\r验收结论\r\n",
+            "t": 1
+          }
+        },
+        "28": {
+          "16": {
+            "v": "现场负责人（签名）：",
+            "t": 1
+          }
+        },
+        "29": {
+          "22": {
+            "v": "年  月  日",
+            "t": 1
+          }
+        }
+      }
+    },
+    "SheetData2": {
+      "id": "SheetData2",
+      "name": "检查记录-2",
+      "mergeData": [
+        {
+          "startRow": 0,
+          "endRow": 0,
+          "startColumn": 1,
+          "endColumn": 26
+        },
+        {
+          "startRow": 1,
+          "endRow": 1,
+          "startColumn": 1,
+          "endColumn": 26
+        },
+        {
+          "startRow": 2,
+          "endRow": 2,
+          "startColumn": 23,
+          "endColumn": 24
+        },
+        {
+          "startRow": 3,
+          "endRow": 3,
+          "startColumn": 1,
+          "endColumn": 26
+        },
+        {
+          "startRow": 4,
+          "endRow": 4,
+          "startColumn": 1,
+          "endColumn": 4
+        },
+        {
+          "startRow": 4,
+          "endRow": 4,
+          "startColumn": 5,
+          "endColumn": 26
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 1,
+          "endColumn": 4
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 5,
+          "endColumn": 13
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 14,
+          "endColumn": 17
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 18,
+          "endColumn": 26
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 1,
+          "endColumn": 3
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 4,
+          "endColumn": 10
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 15,
+          "endColumn": 24
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 7,
+          "endRow": 7,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 7,
+          "endRow": 7,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 7,
+          "endRow": 7,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 8,
+          "endRow": 8,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 8,
+          "endRow": 8,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 8,
+          "endRow": 8,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 9,
+          "endRow": 9,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 9,
+          "endRow": 9,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 9,
+          "endRow": 9,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 10,
+          "endRow": 10,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 10,
+          "endRow": 10,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 10,
+          "endRow": 10,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 11,
+          "endRow": 11,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 11,
+          "endRow": 11,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 11,
+          "endRow": 11,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 12,
+          "endRow": 12,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 12,
+          "endRow": 12,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 12,
+          "endRow": 12,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 13,
+          "endRow": 13,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 13,
+          "endRow": 13,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 13,
+          "endRow": 13,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 14,
+          "endRow": 14,
+          "startColumn": 4,
+          "endColumn": 10
+        },
+        {
+          "startRow": 14,
+          "endRow": 14,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 14,
+          "endRow": 14,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 15,
+          "endRow": 15,
+          "startColumn": 4,
+          "endColumn": 10
+        },
+        {
+          "startRow": 15,
+          "endRow": 15,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 15,
+          "endRow": 15,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 16,
+          "endRow": 16,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 16,
+          "endRow": 16,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 16,
+          "endRow": 16,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 17,
+          "endRow": 17,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 17,
+          "endRow": 17,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 17,
+          "endRow": 17,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 18,
+          "endRow": 18,
+          "startColumn": 4,
+          "endColumn": 5
+        },
+        {
+          "startRow": 18,
+          "endRow": 18,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 18,
+          "endRow": 18,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 18,
+          "endRow": 18,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 19,
+          "endRow": 19,
+          "startColumn": 4,
+          "endColumn": 5
+        },
+        {
+          "startRow": 19,
+          "endRow": 19,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 19,
+          "endRow": 19,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 19,
+          "endRow": 19,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 20,
+          "endRow": 20,
+          "startColumn": 1,
+          "endColumn": 3
+        },
+        {
+          "startRow": 20,
+          "endRow": 20,
+          "startColumn": 4,
+          "endColumn": 10
+        },
+        {
+          "startRow": 20,
+          "endRow": 20,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 20,
+          "endRow": 20,
+          "startColumn": 15,
+          "endColumn": 24
+        },
+        {
+          "startRow": 20,
+          "endRow": 20,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 21,
+          "endRow": 21,
+          "startColumn": 1,
+          "endColumn": 3
+        },
+        {
+          "startRow": 21,
+          "endRow": 21,
+          "startColumn": 4,
+          "endColumn": 10
+        },
+        {
+          "startRow": 21,
+          "endRow": 21,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 21,
+          "endRow": 21,
+          "startColumn": 15,
+          "endColumn": 24
+        },
+        {
+          "startRow": 21,
+          "endRow": 21,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 22,
+          "endRow": 22,
+          "startColumn": 1,
+          "endColumn": 3
+        },
+        {
+          "startRow": 22,
+          "endRow": 22,
+          "startColumn": 4,
+          "endColumn": 10
+        },
+        {
+          "startRow": 22,
+          "endRow": 22,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 22,
+          "endRow": 22,
+          "startColumn": 15,
+          "endColumn": 24
+        },
+        {
+          "startRow": 22,
+          "endRow": 22,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 23,
+          "endRow": 23,
+          "startColumn": 1,
+          "endColumn": 4
+        },
+        {
+          "startRow": 23,
+          "endRow": 23,
+          "startColumn": 5,
+          "endColumn": 8
+        },
+        {
+          "startRow": 23,
+          "endRow": 23,
+          "startColumn": 9,
+          "endColumn": 12
+        },
+        {
+          "startRow": 23,
+          "endRow": 23,
+          "startColumn": 13,
+          "endColumn": 17
+        },
+        {
+          "startRow": 23,
+          "endRow": 23,
+          "startColumn": 18,
+          "endColumn": 22
+        },
+        {
+          "startRow": 23,
+          "endRow": 23,
+          "startColumn": 23,
+          "endColumn": 26
+        },
+        {
+          "startRow": 24,
+          "endRow": 24,
+          "startColumn": 1,
+          "endColumn": 17
+        },
+        {
+          "startRow": 24,
+          "endRow": 24,
+          "startColumn": 18,
+          "endColumn": 21
+        },
+        {
+          "startRow": 24,
+          "endRow": 24,
+          "startColumn": 22,
+          "endColumn": 26
+        },
+        {
+          "startRow": 25,
+          "endRow": 25,
+          "startColumn": 1,
+          "endColumn": 27
+        },
+        {
+          "startRow": 0,
+          "endRow": 23,
+          "startColumn": 0,
+          "endColumn": 0
+        },
+        {
+          "startRow": 0,
+          "endRow": 23,
+          "startColumn": 27,
+          "endColumn": 27
+        },
+        {
+          "startRow": 7,
+          "endRow": 19,
+          "startColumn": 1,
+          "endColumn": 3
+        },
+        {
+          "startRow": 7,
+          "endRow": 8,
+          "startColumn": 4,
+          "endColumn": 5
+        },
+        {
+          "startRow": 9,
+          "endRow": 11,
+          "startColumn": 4,
+          "endColumn": 5
+        },
+        {
+          "startRow": 12,
+          "endRow": 13,
+          "startColumn": 4,
+          "endColumn": 5
+        },
+        {
+          "startRow": 16,
+          "endRow": 17,
+          "startColumn": 4,
+          "endColumn": 5
+        }
+      ],
+      "cellData": {
+        "1": {
+          "1": {
+            "v": "模板分项工程模板安装检验批质量验收的检查记录",
+            "t": 1
+          }
+        },
+        "2": {
+          "21": {
+            "v": "共",
+            "t": 1
+          },
+          "23": {
+            "v": "页 第",
+            "t": 1
+          },
+          "26": {
+            "v": "页",
+            "t": 1
+          }
+        },
+        "4": {
+          "1": {
+            "v": "单位（子单位）\r工程名称\r\n",
+            "t": 1
+          },
+          "5": {
+            "v": "示例工程",
+            "t": 1
+          }
+        },
+        "5": {
+          "1": {
+            "v": "检验批名称",
+            "t": 1
+          },
+          "5": {
+            "v": "模板分项工程模板安装检验批质量验收记录",
+            "t": 1
+          },
+          "14": {
+            "v": "检验批编号",
+            "t": 1
+          },
+          "18": {
+            "v": "010203001（1）",
+            "t": 1
+          }
+        },
+        "6": {
+          "1": {
+            "v": "编号",
+            "t": 1
+          },
+          "4": {
+            "v": "验收项目",
+            "t": 1
+          },
+          "11": {
+            "v": "验收部位",
+            "t": 1
+          },
+          "15": {
+            "v": "检查原始记录",
+            "t": 1
+          },
+          "25": {
+            "v": "备注",
+            "t": 1
+          },
+          "26": {
+            "v": "备注",
+            "t": 1
+          }
+        },
+        "7": {
+          "1": {
+            "v": "第4.2.11条",
+            "t": 1
+          },
+          "4": {
+            "v": "宽度",
+            "t": 1
+          },
+          "6": {
+            "v": "板、墙板（0，-5）mm",
+            "t": 1
+          }
+        },
+        "8": {
+          "6": {
+            "v": "梁、薄腹梁、桁架\r（+2，-5）mm\r\n",
+            "t": 1
+          }
+        },
+        "9": {
+          "4": {
+            "v": "高（厚）\r度\r\n",
+            "t": 1
+          },
+          "6": {
+            "v": "板（+2，-3）mm",
+            "t": 1
+          }
+        },
+        "10": {
+          "6": {
+            "v": "墙板（0，-5）mm",
+            "t": 1
+          }
+        },
+        "11": {
+          "6": {
+            "v": "梁、薄腹梁、桁架、柱\r（+2，-5）mm\r\n",
+            "t": 1
+          }
+        },
+        "12": {
+          "4": {
+            "v": "侧向弯曲",
+            "t": 1
+          },
+          "6": {
+            "v": "梁、板、柱\r（L/1000且≤15mm）\r\n",
+            "t": 1
+          }
+        },
+        "13": {
+          "6": {
+            "v": "墙板、薄腹梁、桁架\r（L/1500且≤15mm）\r\n",
+            "t": 1
+          }
+        },
+        "14": {
+          "4": {
+            "v": "板的表面平整度（3mm）",
+            "t": 1
+          }
+        },
+        "15": {
+          "4": {
+            "v": "相邻模板表面高差（1mm）",
+            "t": 1
+          }
+        },
+        "16": {
+          "4": {
+            "v": "对角线差",
+            "t": 1
+          },
+          "6": {
+            "v": "板（7mm）",
+            "t": 1
+          }
+        },
+        "17": {
+          "6": {
+            "v": "墙板（5mm）",
+            "t": 1
+          }
+        },
+        "18": {
+          "4": {
+            "v": "翘曲",
+            "t": 1
+          },
+          "6": {
+            "v": "板、墙板（L/1500）",
+            "t": 1
+          }
+        },
+        "19": {
+          "4": {
+            "v": "设计起拱",
+            "t": 1
+          },
+          "6": {
+            "v": "薄腹梁、桁架、梁\r（±3mm）\r\n",
+            "t": 1
+          }
+        },
+        "23": {
+          "1": {
+            "v": "土建监理工程师（签名）：",
+            "t": 1
+          },
+          "9": {
+            "v": "施工单位施工员（签名）：",
+            "t": 1
+          },
+          "18": {
+            "v": "施工单位记录人（签名）：",
+            "t": 1
+          }
+        },
+        "24": {
+          "18": {
+            "v": "验收日期：",
+            "t": 1
+          },
+          "22": {
+            "v": "年  月  日",
+            "t": 1
+          }
+        },
+        "25": {
+          "1": {
+            "v": "注：L为构件长度，单位mm。",
+            "t": 1
+          }
+        }
+      }
+    },
+    "SheetData1": {
+      "id": "SheetData1",
+      "name": "检查记录-1",
+      "mergeData": [
+        {
+          "startRow": 0,
+          "endRow": 0,
+          "startColumn": 1,
+          "endColumn": 26
+        },
+        {
+          "startRow": 1,
+          "endRow": 1,
+          "startColumn": 1,
+          "endColumn": 26
+        },
+        {
+          "startRow": 2,
+          "endRow": 2,
+          "startColumn": 23,
+          "endColumn": 24
+        },
+        {
+          "startRow": 3,
+          "endRow": 3,
+          "startColumn": 1,
+          "endColumn": 26
+        },
+        {
+          "startRow": 4,
+          "endRow": 4,
+          "startColumn": 1,
+          "endColumn": 4
+        },
+        {
+          "startRow": 4,
+          "endRow": 4,
+          "startColumn": 5,
+          "endColumn": 26
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 1,
+          "endColumn": 4
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 5,
+          "endColumn": 13
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 14,
+          "endColumn": 17
+        },
+        {
+          "startRow": 5,
+          "endRow": 5,
+          "startColumn": 18,
+          "endColumn": 26
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 1,
+          "endColumn": 3
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 4,
+          "endColumn": 10
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 15,
+          "endColumn": 24
+        },
+        {
+          "startRow": 6,
+          "endRow": 6,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 7,
+          "endRow": 7,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 7,
+          "endRow": 7,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 7,
+          "endRow": 7,
+          "startColumn": 15,
+          "endColumn": 24
+        },
+        {
+          "startRow": 7,
+          "endRow": 7,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 8,
+          "endRow": 8,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 8,
+          "endRow": 8,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 8,
+          "endRow": 8,
+          "startColumn": 15,
+          "endColumn": 24
+        },
+        {
+          "startRow": 8,
+          "endRow": 8,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 9,
+          "endRow": 9,
+          "startColumn": 4,
+          "endColumn": 10
+        },
+        {
+          "startRow": 9,
+          "endRow": 9,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 9,
+          "endRow": 9,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 10,
+          "endRow": 10,
+          "startColumn": 4,
+          "endColumn": 10
+        },
+        {
+          "startRow": 10,
+          "endRow": 10,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 10,
+          "endRow": 10,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 11,
+          "endRow": 11,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 11,
+          "endRow": 11,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 11,
+          "endRow": 11,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 12,
+          "endRow": 12,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 12,
+          "endRow": 12,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 12,
+          "endRow": 12,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 13,
+          "endRow": 13,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 13,
+          "endRow": 13,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 13,
+          "endRow": 13,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 14,
+          "endRow": 14,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 14,
+          "endRow": 14,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 14,
+          "endRow": 14,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 15,
+          "endRow": 15,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 15,
+          "endRow": 15,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 15,
+          "endRow": 15,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 16,
+          "endRow": 16,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 16,
+          "endRow": 16,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 16,
+          "endRow": 16,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 17,
+          "endRow": 17,
+          "startColumn": 4,
+          "endColumn": 10
+        },
+        {
+          "startRow": 17,
+          "endRow": 17,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 17,
+          "endRow": 17,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 18,
+          "endRow": 18,
+          "startColumn": 4,
+          "endColumn": 10
+        },
+        {
+          "startRow": 18,
+          "endRow": 18,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 18,
+          "endRow": 18,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 19,
+          "endRow": 19,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 19,
+          "endRow": 19,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 19,
+          "endRow": 19,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 20,
+          "endRow": 20,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 20,
+          "endRow": 20,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 20,
+          "endRow": 20,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 21,
+          "endRow": 21,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 21,
+          "endRow": 21,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 21,
+          "endRow": 21,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 22,
+          "endRow": 22,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 22,
+          "endRow": 22,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 22,
+          "endRow": 22,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 23,
+          "endRow": 23,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 23,
+          "endRow": 23,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 23,
+          "endRow": 23,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 24,
+          "endRow": 24,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 24,
+          "endRow": 24,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 24,
+          "endRow": 24,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 25,
+          "endRow": 25,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 25,
+          "endRow": 25,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 25,
+          "endRow": 25,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 26,
+          "endRow": 26,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 26,
+          "endRow": 26,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 26,
+          "endRow": 26,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 27,
+          "endRow": 27,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 27,
+          "endRow": 27,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 27,
+          "endRow": 27,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 28,
+          "endRow": 28,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 28,
+          "endRow": 28,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 28,
+          "endRow": 28,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 29,
+          "endRow": 29,
+          "startColumn": 6,
+          "endColumn": 10
+        },
+        {
+          "startRow": 29,
+          "endRow": 29,
+          "startColumn": 11,
+          "endColumn": 14
+        },
+        {
+          "startRow": 29,
+          "endRow": 29,
+          "startColumn": 25,
+          "endColumn": 26
+        },
+        {
+          "startRow": 30,
+          "endRow": 30,
+          "startColumn": 1,
+          "endColumn": 26
+        },
+        {
+          "startRow": 0,
+          "endRow": 30,
+          "startColumn": 0,
+          "endColumn": 0
+        },
+        {
+          "startRow": 0,
+          "endRow": 30,
+          "startColumn": 27,
+          "endColumn": 27
+        },
+        {
+          "startRow": 7,
+          "endRow": 8,
+          "startColumn": 1,
+          "endColumn": 3
+        },
+        {
+          "startRow": 7,
+          "endRow": 8,
+          "startColumn": 4,
+          "endColumn": 5
+        },
+        {
+          "startRow": 9,
+          "endRow": 16,
+          "startColumn": 1,
+          "endColumn": 3
+        },
+        {
+          "startRow": 11,
+          "endRow": 12,
+          "startColumn": 4,
+          "endColumn": 5
+        },
+        {
+          "startRow": 13,
+          "endRow": 14,
+          "startColumn": 4,
+          "endColumn": 5
+        },
+        {
+          "startRow": 15,
+          "endRow": 16,
+          "startColumn": 4,
+          "endColumn": 5
+        },
+        {
+          "startRow": 17,
+          "endRow": 25,
+          "startColumn": 1,
+          "endColumn": 3
+        },
+        {
+          "startRow": 19,
+          "endRow": 21,
+          "startColumn": 4,
+          "endColumn": 5
+        },
+        {
+          "startRow": 22,
+          "endRow": 25,
+          "startColumn": 4,
+          "endColumn": 5
+        },
+        {
+          "startRow": 26,
+          "endRow": 29,
+          "startColumn": 1,
+          "endColumn": 3
+        },
+        {
+          "startRow": 26,
+          "endRow": 29,
+          "startColumn": 4,
+          "endColumn": 5
+        }
+      ],
+      "cellData": {
+        "1": {
+          "1": {
+            "v": "模板分项工程模板安装检验批质量验收的检查记录",
+            "t": 1
+          }
+        },
+        "2": {
+          "21": {
+            "v": "共",
+            "t": 1
+          },
+          "23": {
+            "v": "页 第",
+            "t": 1
+          },
+          "26": {
+            "v": "页",
+            "t": 1
+          }
+        },
+        "4": {
+          "1": {
+            "v": "单位（子单位）工程名称",
+            "t": 1
+          },
+          "5": {
+            "v": "示例工程",
+            "t": 1
+          }
+        },
+        "5": {
+          "1": {
+            "v": "检验批名称",
+            "t": 1
+          },
+          "5": {
+            "v": "模板分项工程模板安装检验批质量验收记录",
+            "t": 1
+          },
+          "14": {
+            "v": "检验批编号",
+            "t": 1
+          },
+          "18": {
+            "v": "010203001（1）",
+            "t": 1
+          }
+        },
+        "6": {
+          "1": {
+            "v": "编号",
+            "t": 1
+          },
+          "4": {
+            "v": "验收项目",
+            "t": 1
+          },
+          "11": {
+            "v": "验收部位",
+            "t": 1
+          },
+          "15": {
+            "v": "检查原始记录",
+            "t": 1
+          },
+          "25": {
+            "v": "备注",
+            "t": 1
+          },
+          "26": {
+            "v": "备注",
+            "t": 1
+          }
+        },
+        "7": {
+          "1": {
+            "v": "第4.2.7条",
+            "t": 1
+          },
+          "4": {
+            "v": "模板的\r起拱\r\n",
+            "t": 1
+          },
+          "6": {
+            "v": "梁",
+            "t": 1
+          }
+        },
+        "8": {
+          "6": {
+            "v": "板",
+            "t": 1
+          }
+        },
+        "9": {
+          "1": {
+            "v": "第4.2.9条",
+            "t": 1
+          },
+          "4": {
+            "v": "预埋板中心线位置（3mm）",
+            "t": 1
+          }
+        },
+        "10": {
+          "4": {
+            "v": "预埋管、预留孔中心线位置（3mm）",
+            "t": 1
+          }
+        },
+        "11": {
+          "4": {
+            "v": "插筋",
+            "t": 1
+          },
+          "6": {
+            "v": "中心线位置（5mm）",
+            "t": 1
+          }
+        },
+        "12": {
+          "6": {
+            "v": "外露长度（+10，0）mm",
+            "t": 1
+          }
+        },
+        "13": {
+          "4": {
+            "v": "预埋螺栓",
+            "t": 1
+          },
+          "6": {
+            "v": "中心线位置（2mm）",
+            "t": 1
+          }
+        },
+        "14": {
+          "6": {
+            "v": "外露长度（+10，0）mm",
+            "t": 1
+          }
+        },
+        "15": {
+          "4": {
+            "v": "预留洞",
+            "t": 1
+          },
+          "6": {
+            "v": "中心线位置（10mm）",
+            "t": 1
+          }
+        },
+        "16": {
+          "6": {
+            "v": "尺寸（+10，0）mm",
+            "t": 1
+          }
+        },
+        "17": {
+          "1": {
+            "v": "第4.2.10条",
+            "t": 1
+          },
+          "4": {
+            "v": "轴线位置（5mm）",
+            "t": 1
+          }
+        },
+        "18": {
+          "4": {
+            "v": "底模上表面标高（±5mm）",
+            "t": 1
+          }
+        },
+        "19": {
+          "4": {
+            "v": "模板\r内部\r尺寸\r\n",
+            "t": 1
+          },
+          "6": {
+            "v": "基础（±10mm）",
+            "t": 1
+          }
+        },
+        "20": {
+          "6": {
+            "v": "柱、墙、梁（±5mm）",
+            "t": 1
+          }
+        },
+        "21": {
+          "6": {
+            "v": "楼梯相邻踏步高差\r（5mm）\r\n",
+            "t": 1
+          }
+        },
+        "22": {
+          "4": {
+            "v": "柱、墙\r垂直度\r\n",
+            "t": 1
+          },
+          "6": {
+            "v": "层高≤6m（8mm）",
+            "t": 1
+          }
+        },
+        "23": {
+          "6": {
+            "v": "层高＞6m（10mm）",
+            "t": 1
+          }
+        },
+        "24": {
+          "6": {
+            "v": "相邻模板表面高差\r（2mm）\r\n",
+            "t": 1
+          }
+        },
+        "25": {
+          "6": {
+            "v": "表面平整度（5mm）",
+            "t": 1
+          }
+        },
+        "26": {
+          "1": {
+            "v": "第4.2.11条",
+            "t": 1
+          },
+          "4": {
+            "v": "长度",
+            "t": 1
+          },
+          "6": {
+            "v": "梁、板（±4mm）",
+            "t": 1
+          }
+        },
+        "27": {
+          "6": {
+            "v": "薄腹梁、桁架（±8mm）",
+            "t": 1
+          }
+        },
+        "28": {
+          "6": {
+            "v": "柱（0，-10）mm",
+            "t": 1
+          }
+        },
+        "29": {
+          "6": {
+            "v": "墙板（0，-5）mm",
+            "t": 1
+          }
+        }
+      }
+    }
+  }
+}

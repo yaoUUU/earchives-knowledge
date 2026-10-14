@@ -1,0 +1,1 @@
+{"doc":"项目文件读取、任务调度及知识库同步可直接复用该服务，无需 Node.js。 ","fields":[],"enumConstants":[],"methods":[{"name":"parseExcel","paramTypes":["java.io.InputStream"],"doc":"不关闭调用方流。临时文件在成功或失败时均清理。 "}],"constructors":[]}

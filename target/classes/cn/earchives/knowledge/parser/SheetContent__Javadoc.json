@@ -1,0 +1,1 @@
+{"doc":"行列从 0 开始；合并区域只用于确定归属，不修改原始单元格。 ","fields":[],"enumConstants":[],"methods":[{"name":"cells","paramTypes":["cn.earchives.data.excel.model.sheet.SheetData","int","int","int","int"],"doc":"保留范围内所有实际填写值及坐标，避免只读第一个格子丢失实测点。 "}],"constructors":[]}

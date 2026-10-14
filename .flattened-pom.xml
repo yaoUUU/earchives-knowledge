@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.earchives</groupId>
+    <artifactId>earchives-modules</artifactId>
+    <version>5.4.0</version>
+  </parent>
+  <groupId>cn.earchives</groupId>
+  <artifactId>earchives-knowledge</artifactId>
+  <version>5.4.0</version>
+  <description>档案知识库：表格内容提取与模板解析</description>
+  <dependencies>
+    <dependency>
+      <groupId>cn.earchives</groupId>
+      <artifactId>earchives-data</artifactId>
+      <version>${revision}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.earchives</groupId>
+      <artifactId>earchives-common-satoken</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-test</artifactId>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <configuration>
+          <groups combine.self="override" />
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
